@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1490840823 source:/home/abhiram/System Stats/Batt_Stat.c
+	<stdio.h>
+	<time.h>
+	<signal.h>
+	<stdlib.h>
+
+1490840835 source:/home/abhiram/System Stats/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1490840823 /home/abhiram/System Stats/Batt_Stat.c
+	<stdio.h>
+	<time.h>
+	<signal.h>
+	<stdlib.h>
+

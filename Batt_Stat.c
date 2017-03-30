@@ -35,7 +35,7 @@ char *batt_cont(float a)
        return GRN "Excillent";
    }
 }
-int main()
+int run()
 {
     FILE *f;
     long long int a;
